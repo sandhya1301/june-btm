@@ -1,0 +1,50 @@
+class Mallinfo{
+ public static void main(String[] args){
+	String name="LULU";
+	short noOfFloor=10;
+	short noOfShops=35;
+	short noOfRestaurants=15;
+	short twoWheelerSlots=50;
+	short fourWheelerSlots=100;
+	float openingTime=10;
+	float closingTime=10;
+	String address="Banglore";
+	short noOfBlocks=10;
+	short noOfBillingCounters=30;
+	int landArea=125789;
+	double rent=25000.00;
+	short elevator=10;
+	short noOfTheaters=4;
+	int noOfThings=200000;
+	boolean opened=true;
+	short noOfLift=4;
+	short noOfWashrooms=6;
+	short noOfGirlsShops=16;
+	short noOfBoysShops=20;
+	short noOfKidsShops=9;
+	String email="lulu@gmail.com";
+	System.out.println(name);
+	System.out.println(noOfFloor);
+	System.out.println(noOfShops);
+	System.out.println(noOfRestaurants);
+	System.out.println(twoWheelerSlots);
+	System.out.println(fourWheelerSlots);
+	System.out.println(openingTime);
+	System.out.println(closingTime);
+	System.out.println(address);
+	System.out.println(noOfBlocks);
+	System.out.println(noOfBillingCounters);
+	System.out.println(landArea);
+	System.out.println(rent);
+	System.out.println(elevator);
+	System.out.println(noOfTheaters);
+	System.out.println(noOfThings);
+	System.out.println(opened);
+	System.out.println(noOfLift);
+	System.out.println(noOfWashrooms);
+	System.out.println(noOfGirlsShops);
+	System.out.println(noOfBoysShops);
+	System.out.println(noOfKidsShops);
+	System.out.println(email);
+}
+}
